@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio del modulo de 2 de PrepCourse de Henry 
+Este proyecto es una pruyeba de como crear un repositorio y guardarlo a mi escritorio local- 
