@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este proyecto es una pruyeba de como crear un repositorio y guardarlo a mi escritorio local- 
+Este es un proyecto de prueba de como crear un repositorio y clocarlo a mi escritorio local
